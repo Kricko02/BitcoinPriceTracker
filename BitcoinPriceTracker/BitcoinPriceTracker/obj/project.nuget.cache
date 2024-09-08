@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HAZXMs5gxGZkfYYjFdxorzrCC/nojA9UYmkgw0GfTMPKV0aSw1rmv8hW11WzxYmCYC12MIgV5phJfopy7juNIg==",
+  "dgSpecHash": "57bKpLFPTKhcuHrx96JdH/VGy/inOy69RbG1jJQOYNtQerCgT1+M5bylmKIdAxDoWi8TWtdh09yF1hbW12ImFw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj",
+  "projectFilePath": "D:\\Projects\\BtcPriceTrackerFinal\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krica\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\krica\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

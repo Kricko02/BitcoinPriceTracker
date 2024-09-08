@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitcoinPriceTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+015ab8321a2b260e08a95605dd70c7754a53cd7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd0471a2bc2aa17a219a70d2506ddcdf4e9cb79")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitcoinPriceTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitcoinPriceTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

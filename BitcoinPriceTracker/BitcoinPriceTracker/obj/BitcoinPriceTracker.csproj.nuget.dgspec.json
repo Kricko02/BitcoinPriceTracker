@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj": {}
+    "D:\\Projects\\BtcPriceTrackerFinal\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj": {
+    "D:\\Projects\\BtcPriceTrackerFinal\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj",
+        "projectUniqueName": "D:\\Projects\\BtcPriceTrackerFinal\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj",
         "projectName": "BitcoinPriceTracker",
-        "projectPath": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj",
+        "projectPath": "D:\\Projects\\BtcPriceTrackerFinal\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.csproj",
         "packagesPath": "C:\\Users\\krica\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\obj\\",
+        "outputPath": "D:\\Projects\\BtcPriceTrackerFinal\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\SDKs\\NuGetPackages"
