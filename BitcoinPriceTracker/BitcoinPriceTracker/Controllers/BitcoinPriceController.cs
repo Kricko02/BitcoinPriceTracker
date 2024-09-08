@@ -17,8 +17,14 @@ namespace BitcoinPriceTracker.Controllers
         public async Task<IActionResult> GetCurrentPrice()
         {
             var price = await _bitcoinPrice.GetPriceAsync();
+            
+            if(price != null)
+            {
+                return Ok(price);
+            }
+            else { return BadRequest("The error occurred"); }
 
-            return Ok(price);
+
         }
 
         [HttpGet("GetAveragePriceForDate")]
