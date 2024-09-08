@@ -1,0 +1,6 @@
+@BitcoinPriceTracker_HostAddress = http://localhost:5263
+
+GET {{BitcoinPriceTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

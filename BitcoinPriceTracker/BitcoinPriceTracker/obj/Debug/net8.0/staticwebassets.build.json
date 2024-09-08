@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mDNzNnozlpW06uuAERR6yMFsO7xl+WitYoSNMKv1gWQ=",
+  "Source": "BitcoinPriceTracker",
+  "BasePath": "_content/BitcoinPriceTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
