@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Bitcoin Price Tracker** is a .NET application designed to track the price of Bitcoin and store it in an SQLite database. The application has several core features:
+The **Bitcoin Price Tracker** is simple a .NET application designed to track the price of Bitcoin and store it in an SQLite database. The application has several core features:
 
 - **Real-time Bitcoin Price Tracking**: Fetches the latest Bitcoin price from a public API.
 - **Automatic Price Storage**: A background service runs every hour to save the current Bitcoin price to an SQLite database.
