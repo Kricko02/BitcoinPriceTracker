@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\services\\pricebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\services\\pricebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\seeders\\bitcoinpriceseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\seeders\\bitcoinpriceseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\repository\\bitcoinpricerepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\repository\\bitcoinpricerepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\models\\bitcoinprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\models\\bitcoinprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\migrations\\20240908115552_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\migrations\\20240908115552_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\interfaces\\ibitcoinprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\interfaces\\ibitcoinprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\controllers\\bitcoinpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\controllers\\bitcoinpricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\migrations\\20240908144808_updatebitcoinpricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\migrations\\20240908144808_updatebitcoinpricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\bitcoinpricetracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|d:\\projects\\bitcoinpricetracker\\bitcoinpricetracker\\bitcoinpricetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A0F4ABB-2A06-4164-8896-5DB8AC2DA6DB}|BitcoinPriceTracker\\BitcoinPriceTracker.csproj|solutionrelative:bitcoinpricetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +70,171 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitcoinPriceSeeder.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Seeders\\BitcoinPriceSeeder.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Seeders\\BitcoinPriceSeeder.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Seeders\\BitcoinPriceSeeder.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Seeders\\BitcoinPriceSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:31:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BitcoinPriceTracker.http",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.http",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\BitcoinPriceTracker.http",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker.http",
+              "RelativeToolTip": "BitcoinPriceTracker\\BitcoinPriceTracker.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-08T14:24:23.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:01:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BitcoinPriceController.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Controllers\\BitcoinPriceController.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Controllers\\BitcoinPriceController.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Controllers\\BitcoinPriceController.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Controllers\\BitcoinPriceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:29:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BitcoinPriceRepositorycs.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Repository\\BitcoinPriceRepositorycs.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Repository\\BitcoinPriceRepositorycs.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Repository\\BitcoinPriceRepositorycs.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Repository\\BitcoinPriceRepositorycs.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:13:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBitcoinPrice.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Interfaces\\IBitcoinPrice.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Interfaces\\IBitcoinPrice.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Interfaces\\IBitcoinPrice.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Interfaces\\IBitcoinPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:06:00.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PriceBackgroundService.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Services\\PriceBackgroundService.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Services\\PriceBackgroundService.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Services\\PriceBackgroundService.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Services\\PriceBackgroundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:54:30.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240908115552_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Migrations\\20240908115552_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Migrations\\20240908115552_InitialCreate.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Migrations\\20240908115552_InitialCreate.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Migrations\\20240908115552_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:56:01.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\appsettings.json",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\appsettings.json",
+              "RelativeToolTip": "BitcoinPriceTracker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T11:51:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:46:04.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BitcoinPrice.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Models\\BitcoinPrice.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Models\\BitcoinPrice.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Models\\BitcoinPrice.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Models\\BitcoinPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:36:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Program.cs",
               "RelativeDocumentMoniker": "BitcoinPriceTracker\\Program.cs",
               "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Program.cs",
               "RelativeToolTip": "BitcoinPriceTracker\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T11:06:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240908144808_UpdateBitcoinPriceType.cs",
+              "DocumentMoniker": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Migrations\\20240908144808_UpdateBitcoinPriceType.cs",
+              "RelativeDocumentMoniker": "BitcoinPriceTracker\\Migrations\\20240908144808_UpdateBitcoinPriceType.cs",
+              "ToolTip": "D:\\Projects\\BitcoinPriceTracker\\BitcoinPriceTracker\\BitcoinPriceTracker\\Migrations\\20240908144808_UpdateBitcoinPriceType.cs",
+              "RelativeToolTip": "BitcoinPriceTracker\\Migrations\\20240908144808_UpdateBitcoinPriceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:48:13.084Z",
               "EditorCaption": ""
             }
           ]
